@@ -23,7 +23,7 @@ config:
 %%{
   init: {
     'flowchart': { 'htmlLabels': false },
-    'fontFamily': 'Impact',
+    'fontFamily': 'Gill Sans',
     'themeVariables': {
       'primaryColor': '#0D47A1',       
       'primaryTextColor': '#E1F5FE', 
