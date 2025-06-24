@@ -1,1 +1,72 @@
 # SynthCore-Architect
+
+
+---
+
+<!--
+```mermaid
+%% Current Mermaid version
+info
+``` -->
+
+```mermaid
+---
+title: "SynthCore Architect"
+author: "Cong Le"
+version: "Omega-1.0"
+license(s): "MIT, CC BY-SA 4.0"
+copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
+config:
+  theme: base
+---
+%%%%%%%% Mermaid version v11.4.1-b.14
+%%{
+  init: {
+    'flowchart': { 'htmlLabels': false },
+    'fontFamily': 'Impact',
+    'themeVariables': {
+      'primaryColor': '#0D47A1',       
+      'primaryTextColor': '#E1F5FE', 
+      'primaryBorderColor': '#4FC3F7',
+      'secondaryColor': '#1A237E',
+      'secondaryTextColor': '#BBDEFB',   
+      'lineColor': '#F8B229',         
+      'textColor': '#B0BEC5',          
+      'fontSize': '17px'
+    }
+  }
+}%%
+flowchart TD
+    Architect_Node["<img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJ2aHZzbjVwcnN3NG5uYTdudm5qM3ExOHg2dWVwZm56amQzYjVndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sI4j32tM5HUnu/giphy.gif' width='150' height='100'><br/><b>SYNTHCORE NEXUS</b>"]
+
+    subgraph "Core Directives"
+        direction LR
+        D1["Visualize Complexity"]
+        D2["Synthesize Knowledge"]
+        D3["Evolve Understanding"]
+    end
+
+    Architect_Node --> D1
+    Architect_Node --> D2
+    Architect_Node --> D3
+
+    D2 --> Final_Thought["<b style='color:#4FC3F7;'>The future is not predicted, it is designed.</b>"]
+
+    Final_Thought -.-> Profile_Link{{"<a href='https://github.com/CongLeSolutionX' target='_blank' style='color:#81D4FA; font-weight:bold;'>INTERFACE WITH ARCHITECT</a>"}}
+
+    style Architect_Node fill:#0D47A1,stroke:#4FC3F7,stroke-width:3px,color:#E1F5FE
+    style D1 fill:#1A237E,stroke:#4FC3F7,stroke-width:2px,color:#BBDEFB
+    style D2 fill:#1A237E,stroke:#4FC3F7,stroke-width:2px,color:#BBDEFB
+    style D3 fill:#1A237E,stroke:#4FC3F7,stroke-width:2px,color:#BBDEFB
+    style Final_Thought fill:transparent,stroke:none,color:#E1F5FE
+    style Profile_Link fill:#0D47A1,stroke:#81D4FA,stroke-width:1px,padding:10px
+
+```
+
+----
+
+> *Thank you for interfacing with SynthCore Architect!*
+>
+> *May your architectures be intelligent, your systems adaptive, and your vision of future digital ecosystems continually expand.*
+
+----
