@@ -38,7 +38,7 @@ config:
   }
 }%%
 flowchart TD
-    Architect_Node["<img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJ2aHZzbjVwcnN3NG5uYTdudm5qM3ExOHg2dWVwZm56amQzYjVndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sI4j32tM5HUnu/giphy.gif' width='150' height='100'><br/><b>SYNTHCORE NEXUS</b>"]
+    Architect_Node["<img src='https://raw.githubusercontent.com/CongLeSolutionX/CongLeSolutionX/refs/heads/main/assets/images/My-meme-red-wine-glass.png' width='200' height='150'><br/><b>SYNTHCORE NEXUS</b>"]
 
     subgraph Core_Directives["Core Directives"]
     style Core_Directives fill:#84FA,stroke:#333,stroke-width:2px, color: #FFFF
