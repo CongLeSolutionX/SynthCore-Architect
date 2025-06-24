@@ -18,6 +18,7 @@ license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   theme: base
+  look: handDrawn
 ---
 %%%%%%%% Mermaid version v11.4.1-b.14
 %%{
@@ -39,8 +40,9 @@ config:
 flowchart TD
     Architect_Node["<img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJ2aHZzbjVwcnN3NG5uYTdudm5qM3ExOHg2dWVwZm56amQzYjVndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sI4j32tM5HUnu/giphy.gif' width='150' height='100'><br/><b>SYNTHCORE NEXUS</b>"]
 
-    subgraph "Core Directives"
-        direction LR
+    subgraph Core_Directives["Core Directives"]
+    style Core_Directives fill:#84FA,stroke:#333,stroke-width:2px, color: #FFFF
+    direction LR
         D1["Visualize Complexity"]
         D2["Synthesize Knowledge"]
         D3["Evolve Understanding"]
